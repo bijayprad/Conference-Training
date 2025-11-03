@@ -4,11 +4,13 @@
 
 [Balkimari Qualitative Research training proposal](https://docs.google.com/document/d/e/2PACX-1vQIruKVEOTzNCplgnBN0kR6Pg2bCFBDbAv673QSfM1HM_ij7SKA89anDWFh22lTMUy4J5v4vP_VYO1T/pub)
 
-[5-Day Research Methodology and Data Analysis Training Program](https://docs.google.com/document/d/e/2PACX-1vQCXFTK23OQePNSl7Nd0J6vRAhAZhz8_kmN0JiG2YHQ7iXuX9FYSHItWaPSfKDQGVUS-PQy8E6Bw6k0/pub)
+
 
 
 
 
 Program
+
+[5-Day Research Methodology and Data Analysis Training Program](https://docs.google.com/document/d/e/2PACX-1vQCXFTK23OQePNSl7Nd0J6vRAhAZhz8_kmN0JiG2YHQ7iXuX9FYSHItWaPSfKDQGVUS-PQy8E6Bw6k0/pub)
 
 [4 days SPSS Program detail](https://docs.google.com/document/d/e/2PACX-1vQYosLv9O8IhnXKzRp9V5x3cTWKe-l3VnhgY9-2HLHOl3fLFFubWnPqamyswBzKGrjAcWhw6DC3magm/pub)
