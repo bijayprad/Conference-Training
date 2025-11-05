@@ -2,6 +2,9 @@
 
 
 Program
+
+[12 Session R training program](https://docs.google.com/document/d/e/2PACX-1vSe5-XCS369enzlUy7p35vxHhShKumNpuSXUZWgheBq1FSaiQ44z5nNCDzrGfRWhAgrZOMcfrtah7zH/pub)
+
 [Data Analysis Workshop Program](https://docs.google.com/document/d/e/2PACX-1vSlxUndVRe9PQai6qTIXGvr4T-amLI8z9FmV0Dsz7IK0v4QbZ1njGYiYunDnFr50cefQMfX9ngKgOLJ/pub)
 
 [5-Day Research Methodology and Data Analysis Training Program](https://docs.google.com/document/d/e/2PACX-1vQCXFTK23OQePNSl7Nd0J6vRAhAZhz8_kmN0JiG2YHQ7iXuX9FYSHItWaPSfKDQGVUS-PQy8E6Bw6k0/pub)
