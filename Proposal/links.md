@@ -14,3 +14,5 @@ Program
 [5-Day Research Methodology and Data Analysis Training Program](https://docs.google.com/document/d/e/2PACX-1vQCXFTK23OQePNSl7Nd0J6vRAhAZhz8_kmN0JiG2YHQ7iXuX9FYSHItWaPSfKDQGVUS-PQy8E6Bw6k0/pub)
 
 [4 days SPSS Program detail](https://docs.google.com/document/d/e/2PACX-1vQYosLv9O8IhnXKzRp9V5x3cTWKe-l3VnhgY9-2HLHOl3fLFFubWnPqamyswBzKGrjAcWhw6DC3magm/pub)
+
+[5 days Excel Training Program](https://docs.google.com/document/d/e/2PACX-1vSKt8KYle_iRQCaPTTyICcmQj2_jZVgGLUU-1vexLl5woElXeRXIufJqMZcia-_nVJzI8Jllu2tM75c/pub)
